@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning: `Spring Boot`, `Angular`, `Docker`, `Microservices`  
 - 🧠 Always improving in: `Clean Architecture`, `RESTful API`, `DevOps Tools`  
 - 📫 How to reach me: **youssfelmadani@gmail.com**  
-- 🌍 Location: **Laayoune, Morocco**
+- 🌍 Location: **Béni Méllal, Morocco**
 
 ---
 
